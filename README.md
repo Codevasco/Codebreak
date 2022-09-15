@@ -11,4 +11,4 @@ Known issue: the game sound will persist until the Java platform binary program 
 Run the .jar file (should run on any system) and follow the instructions in the game.
 
 ____
-Authors: [Vasco Gonçalves / Codevasco](https://www.linkedin.com/in/vascofg99/), [Gonçalo Ferreira](https://www.linkedin.com/in/goncalomferreira/), [Pedro Fiúza](https://www.linkedin.com/in/pedrofiuza79/), [Tomás Negreiro], and João Oliveira.
+Authors: [Vasco Gonçalves / Codevasco](https://www.linkedin.com/in/vascofg99/), [Gonçalo Ferreira](https://www.linkedin.com/in/goncalomferreira/), [Pedro Fiúza](https://www.linkedin.com/in/pedrofiuza79/), [Tomás Negreiro](https://www.linkedin.com/in/notfoundtn/), and João Oliveira.
